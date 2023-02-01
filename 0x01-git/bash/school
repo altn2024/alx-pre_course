@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash School
 =======
 #!/bin/bash#!
+#"The School is open!" 
+>>>>>>> update_script
+=======
+#!/bin/bash
 #"The School is open!" 
 >>>>>>> update_script
